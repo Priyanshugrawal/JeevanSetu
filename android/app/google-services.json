@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789872418575",
+    "project_id": "smart-resource-app-fffe7",
+    "storage_bucket": "smart-resource-app-fffe7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789872418575:android:11cbcfa1aa62d0d38ae87a",
+        "android_client_info": {
+          "package_name": "com.example.smart_resource_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdmL0cgncabEuZAbM0vb-Kr0g82t-AeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
